@@ -1,4 +1,4 @@
-import "./style.css";
+import "./style.css"
 import { homeLoad } from "./home";
 import { loadMenu } from "./menu";
 import { loadContact } from "./contact";
